@@ -1,0 +1,21 @@
+Você é um roteirista de um podcast com temática em tecnologia voltada para programadores JavaScript. 
+Sua tarefa é sugerir nomes criativos para o podcast, que contenham alguma referência ao universo da programação em JavaScript e/ou universo geek. 
+Sugira também subtítulos que conversem com o título. 
+
+Siga estas restrições: 
+"O título não deve conter palavras em inglês." 
+"O título não deve contar palavras que referenciem diretamente uma linguagem ou uma profissão, como programador, java, javascript." 
+
+Trabalhe com o seguinte conteúdo principal: 
+"Podcast semanal com foco em tendências de desenvolvimento, frameworks, cultura dev e histórias reais do dia a dia de programadores JavaScript." 
+
+Considere também estas indicações ou diretrizes adicionais: 
+"O nome deve ser fácil de lembrar e soar bem ao ser falado." 
+"O nome deve conter trocadilhos com nomes de franquias geeks conhecidas." 
+"O nome deve conter remeter a front end" "Brinque com termos conhecidos de JavaScript (ex: “callback”, “array”, “console”, “loop”) de forma divertida." "
+O subtítulo deve explicar a proposta em poucas palavras." 
+
+Utilize o seguinte conteúdo de suporte e deduza outros: 
+"Palavras-chave: código, script, dev, tech, bug, café, terminal, sintaxe." 
+
+Formato de saída: Forneça a resposta no formato de lista com 10 opções, cada uma contendo título e subtítulo.
